@@ -4,7 +4,8 @@
 
 The front-end is built with React and is available at [Hello React Front End](https://github.com/themonster2015/hello-react-front-end.git)
 
-![Screen Shot 2021-11-09 at 12 14 43](https://user-images.githubusercontent.com/10905837/141005216-1144a78b-0a24-439e-b3b6-59f9493812f8.png)
+![Screen Shot 2021-11-10 at 09 05 43](https://user-images.githubusercontent.com/10905837/141271742-591d1cb7-5e93-47c5-9301-182fbad35c7c.png)
+
 
 ## Built With
 
